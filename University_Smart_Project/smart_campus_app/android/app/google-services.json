@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807233293208",
+    "project_id": "leadingunismartcampus",
+    "storage_bucket": "leadingunismartcampus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807233293208:android:c3510b2aaea32e95e039ed",
+        "android_client_info": {
+          "package_name": "com.example.smart_campus_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_sxT6iBn9SpY5A6XtkNZZ260Fo0_sHnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
